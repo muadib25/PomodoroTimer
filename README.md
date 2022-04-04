@@ -6,6 +6,9 @@ This is a Pomodoro timer I made in Python as part of a course project.
 The Pomodoro technique is a time management method. You can read more about it here: https://en.wikipedia.org/wiki/Pomodoro_Technique
 
 
+<h3>REQUIREMENTS</h3>
+Any Linux distribution should do.
+
 <h3>INSTALLATION</h3>
 
 Extract the archive in a place on your hard disk.
