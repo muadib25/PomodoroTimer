@@ -7,8 +7,8 @@ The Pomodoro technique is a time management method. You can read more about it h
 
 
 <h3>REQUIREMENTS</h3>
-Any Linux distribution should do, since all Linux installations have Python included.<br>
-Also make sure to install the <b>tkinter</b> python module.
+Any Linux distribution should do, since all Linux installations have Python included.<br><br>
+If you are planning on running the program from source, make sure to install the <b>tkinter</b> python module.
 
 <h3>INSTALLATION</h3>
 
