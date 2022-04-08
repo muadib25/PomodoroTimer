@@ -2,8 +2,8 @@
 
 <h3>ABOUT</h3>
 
-This is a Pomodoro timer I made in Python as part of a course project.
-The Pomodoro technique is a time management method. You can read more about it here: https://en.wikipedia.org/wiki/Pomodoro_Technique.
+This is a Pomodoro timer I made in Python as part of an online course project.
+The Pomodoro technique is a productivity and time management method. You can read more about it here: https://en.wikipedia.org/wiki/Pomodoro_Technique.
 
 
 <h3>REQUIREMENTS</h3>
