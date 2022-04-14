@@ -9,7 +9,7 @@ The Pomodoro technique is a productivity and time management method. You can rea
 <h3>REQUIREMENTS</h3>
 Linux: Tested in Ununtu 20.04, but any modern Linux distro should do.<br><br>
 Windows: Tested in Windows 10.<br><br>
-If you are planning on running the program from source, make sure to install the <b>tkinter</b> and <b>pyperclip</b> python modules.
+If you are planning on running the program from source, make sure to install the <b>tkinter</b> python module.
 
 <h3>INSTALLATION</h3>
 
