@@ -14,7 +14,7 @@ If you are planning on running the program from source, make sure to install the
 <h3>INSTALLATION</h3>
 
 Extract the archive in a place on your hard disk.
-You can then simply run the executable.
+You can then simply navigate in the extracted directory and run the executable.
 
 
 <h3>USAGE</h3>
